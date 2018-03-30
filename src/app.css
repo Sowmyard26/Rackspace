@@ -1,0 +1,40 @@
+body {
+  margin: 0 auto;
+  padding: 32px;
+  background-color:#013F94; 
+}
+
+body .page-container {
+  width: 1000px;
+  padding: 20px 32px;
+  margin: 0 auto;
+  background-color: white;
+}
+#sample{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#sample td, #sample th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#sample tr:hover {background-color: #ddd;}
+
+#sample th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: grey;
+    color: Black;
+}
+
+#click {
+  background: #013F94;
+  border-radius: 8px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  font-size: 20px;
+  color: white;
+}
